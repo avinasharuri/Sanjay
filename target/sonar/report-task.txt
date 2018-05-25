@@ -1,0 +1,6 @@
+projectKey=com.avinash:sanjay
+serverUrl=http://localhost:9000
+serverVersion=6.7.3.38370
+dashboardUrl=http://localhost:9000/dashboard/index/com.avinash:sanjay
+ceTaskId=AWOXIqrfEMthuBi1Z7aa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWOXIqrfEMthuBi1Z7aa
